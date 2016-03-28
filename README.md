@@ -1,5 +1,5 @@
 # Rgonaut
-adventures in R
+My adventures in R
 
 I'll cover:
 
