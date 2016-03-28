@@ -1,7 +1,7 @@
 # Rgonaut
 My adventures in R
 
-I'll cover:
+## I'll cover:
 
 - machine learning
 - advanced statistics
