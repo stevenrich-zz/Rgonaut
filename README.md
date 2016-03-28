@@ -6,3 +6,4 @@ My adventures in R
 - machine learning
 - advanced statistics
 - scraping
+- mapreduce
